@@ -7,3 +7,4 @@
 **/_ReSharper.Caches/
 **/appsettings.json
 **/*.DotSettings.user
+**/.DS_Store
